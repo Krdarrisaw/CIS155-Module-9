@@ -1,0 +1,9 @@
+Because I didnt get peer repsonese im using instrutor feed back on all of my work.
+
+Feedback: OK! Color scheme: a bit corporate boring. It looks like something for an airline booking site. 
+Bump up color.
+Fix: completely reworked the color palatte.
+
+Feedback2: Add dynamic photos. I would like to see more interactivity/snazzyness in the menu as well
+
+Fix: Added a variety of photos for each location.
